@@ -1,0 +1,6 @@
+---
+applications:
+- name: myapp
+  host: gaurav123
+  path: myapp
+  memory: 128M
